@@ -36,5 +36,5 @@ Further development of **STHGCN-Traffic-Net** will focus on:
 - Exploring the integration of additional real-time traffic features for enhanced robustness.
 
 ## Important
-In this project.We don't have other useage rather than learning.
+In this project. We don't have other useage rather than learning.
 
