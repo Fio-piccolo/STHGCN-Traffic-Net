@@ -1,5 +1,6 @@
 ## Introduction  
 **STHGCN-Traffic-Net** is a studing project based on https://github.com/ChyaZhang/ChatTraffic and https://github.com/yysijie/st-gcn Two Articles and Codes.
+We don't have other useage rather than learning.
 **STHGCN-Traffic-Net** is a novel model based on Spatio-Temporal Hypergraph Convolutional Networks, developed to improve the accuracy and efficiency of traffic accident prediction. By combining spatio-temporal modeling with hypergraph structures, this model captures complex multi-node relationships and temporal dependencies within traffic networks. It is specifically tailored for predicting traffic-related incidents, leveraging both structural and temporal data from real-world datasets. The project builds upon key methodologies and codebases from existing works to further the understanding and application of advanced graph-based neural networks in traffic analysis.  
 
 ## Requirements  
